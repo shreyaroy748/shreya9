@@ -1,0 +1,156 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden!important;
+  color: #505962!important;
+}
+/* navigation bar */
+.navbar{
+  font-weight: 700;
+  font-size:14.4px;
+  letter-spacing: 1.6px;
+  background-color: rgba(0, 0, 0, 0.6)!important;
+}
+.navbar-brand img{
+  height:32px;
+}
+.navbar-nav li{
+  padding-right: 11.2px;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: white!important;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #1ebba3!important;
+}
+/* banner */
+.home-inner{
+  background-image: url(../img/computers.png);
+}
+.caption{
+  width: 100%;
+  position: absolute;
+  top:38%;
+  color: #ffffff;
+  z-index: 1;
+}
+.caption h1{
+  font-size: 3.8rem;
+  font-weight: 700;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem  black;
+}
+.caption h3{
+  font-size: 2rem;
+  text-shadow: .1rem .1rem .3rem black;
+  padding-bottom: 1.6rem;
+}
+.btn-lg{
+  border-width: medium!important;
+  border-radius: 0!important;
+  padding: .6rem 1.3rem !important;
+}
+.bootstrap{
+  padding-top: 55px;
+  padding-bottom: 170px;
+}
+
+/* bootstrap */
+#features{
+  padding: 7% 15%;
+  background-color: #e0ece4;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.fa{
+  /* padding: 7%; */
+    color: #1ebba3!important;
+}
+.fab{
+  /* padding: 7%; */
+  color: #1ebba3!important;
+}
+hr{
+  border-style:none;
+   /* border-top-style:dashed!important; */
+  border-color: #1ebba3!important;
+  border-width: 2px!important;
+  width:10%;
+  margin: 20px auto;
+}
+.box{
+  padding-bottom: 30px;
+}
+
+
+
+/* nextttttttttttt */
+
+.dark{
+  background-color:rgba(0,0,0,0.75);
+  color: #ffffff;
+  padding: 7rem 2rem;
+}
+.fixed{
+  background-image: url(../img/apple.png);
+  z-index: -1;
+}
+.roy{
+  width:150px;
+  border-radius: 75px;
+  height: 150px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.home{
+  padding-top: 40px;
+  font-size: 20px;
+}
+.CLIENTS-hr{
+  border-top: .05rem solid #1ebba3;
+  width: 15%;
+  padding-top: 30px;
+  margin-top: 35px;
+}
+.carousel {
+  background-color: #e5edb7;
+}
+ .log{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.text{
+  margin: 10px;
+}
+.footer{
+  background-color: #3c2c3e;
+  padding-bottom: 10px;
+}
+.color{
+  color: #ffffff;
+    margin-bottom: 20px;
+}
+.not{
+    /* padding: 7%; */
+      color: #1ebba3!important;
+}
+.mix{
+  margin-top: 40px;
+}
+
+
+
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
